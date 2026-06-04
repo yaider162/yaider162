@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **becoming a better person**
 
-- 🌱 I’m currently learning **Java, swing, MVP, data stuctures**
+- 🌱 I’m currently learning **Rust and data stuctures algorithms**
 
-- 🤝 I’m looking for help with **surpass Programacion III**
+- 🤝 I’m looking for help with **surpass life**
 
 - 💬 Ask me about **Boobs and data structures**
 
